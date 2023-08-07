@@ -1,0 +1,40 @@
+body
+{
+	background: rgb(77, 150, 86);
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgba(163, 139, 194, 0.525);
+		padding: 50px;
+		float: none;
+		border-radius: 80px;
+        font-family: "Monaco"
+	}
+
+
+#player1_name , #player2_name
+{
+	display:grid;
+	margin-left: 70px;
+}
+
+body, h1
+{
+    font-family: "Papyrus"
+}
+
+.button
+{
+    font-family: "Courier New"
+}
+
+#output
+{
+	background: peachpuff;
+	border-radius: 10px;
+	border-top: 10px solid #ff7f4e;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
